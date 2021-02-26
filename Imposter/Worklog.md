@@ -7,3 +7,8 @@
 10:24am - add a few more animation ideas, work on site navigation plan. Scroll instead of seperate components! trying to work smarter not harder here
 
 10:45am - add a seperate test folder with react to test out ideas/animations 
+
+11:41am - reading parallax scroll info
+
+11:52am - found a walk through for parallax scrolling to test out after lunch
+
