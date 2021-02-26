@@ -19,6 +19,6 @@ Goals for Friday 2/26
     - this one is just cool https://codepen.io/alexzaworski/pen/mEkvAG
     - Use React transistions for ... transistions https://reactjs.org/docs/animation.html  and page scrolling? 
 - Reseach how to move through story best
-    - Should it just be an a scroll through the whole story!? This would prove to be much simpler I think. Landing page with the logo and "Start Story" button. This launchs a single component. User scrolls down the page to read the story, with animations that trigger, or show along the way. This would save loading between components and might feel more seemless. Using something like this? https://codepen.io/rexjbull/pen/RwRRezq Could really amp up the emotional aspect of the story.
+    - Should it just be an a scroll through the whole story!? This would prove to be much simpler I think. Landing page with the logo and "Start Story" button. This launchs a single component. User scrolls down the page to read the story, with animations that trigger, or show along the way. This would save loading between components and might feel more seemless. Using something like this? https://codepen.io/rexjbull/pen/RwRRezq Could really amp up the emotional aspect of the story. or https://jscottsmith.github.io/react-scroll-parallax-examples/examples/parallax-example/
 - Plan some story component layout/styling. 
   - 
