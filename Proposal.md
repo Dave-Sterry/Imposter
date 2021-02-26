@@ -17,7 +17,7 @@ Custom styling for all story sections
 
 React	
 Anime.js
-Canvas
+Other animations to be decided
 React Bootstrap
 CSS and styled components for styling 
 
