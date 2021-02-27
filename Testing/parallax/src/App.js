@@ -22,20 +22,34 @@ const renderContent = () =>(
       <div className="Test__content__cta">
         <p>words words words more words</p>
       </div>
+      <div className="Test__content__cta2">
+        <p>Please sir, give me job. I can parallax</p>
+      </div>
     </>
     );
+
+    const moreStuff= () => (
+      <>
+      <div className ="More">
+        <h2 className ="More__stuff">I'm adding more stuff, I hope this works</h2>
+      </div>
+      </>
+    )
   
   return (
     <section className= "Test">
       <div 
       className="Test__background" 
-      style={{ transform: `translateY(-${offsetY * 0.5}px)` }}
+      style={{ transform: `translateY(-${offsetY * 1.5}px)` }}
       />
       <div 
       className="Test__image" 
       style={{ transform: `translateY(${offsetY * 0.8})px)` }}
       />
+      
       <div className="Test__content">{renderContent()}</div>
+      <br></br>
+      <div className="More">{moreStuff}</div>
     </section>
   );
 }
