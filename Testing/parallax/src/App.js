@@ -6,19 +6,20 @@ function App() {
   const handleScroll =() => setOffsetY(window.pageYOffset);
 
   useEffect(() =>{
-    window.addEventListener('scroll', handleScroll );
+    window.addEventListener('scroll', handleScroll);
   
   
   return() => window.removeEventListener('scroll', handleScroll);
-}, [])
-  const renderContent = () =>(
+}, []);
+  
+const renderContent = () =>(
     <>
-      <div className="Test_content_heading">
-        <h1 className="Test__content_heading_text">Test Yo!</h1>
-        <h2 className ="Test_content_heading_caption"> 
+      <div className="Test__content__heading">
+        <h1 className="Test__content__heading__text">Test Yo!</h1>
+        <h2 className ="Test__content__heading__caption"> 
         I am learning how to implement parallax scrolling</h2>
       </div>
-      <div className="Test_content_cta">
+      <div className="Test__content__cta">
         <p>words words words more words</p>
       </div>
     </>
@@ -26,11 +27,17 @@ function App() {
   
   return (
     <section className= "Test">
-      <div className="Test_background" style = {{transform: `translateY(${offsetY * 0.5}px)`}}/>
-      <div className="Test_image" style = {{ transform: `translateY(${offsetY * 0.8})px`}}/>
-      <div className="Test_content">{renderContent()}</div>
+      <div 
+      className="Test__background" 
+      style={{ transform: `translateY(-${offsetY * 0.5}px)` }}
+      />
+      <div 
+      className="Test__image" 
+      style={{ transform: `translateY(${offsetY * 0.8})px)` }}
+      />
+      <div className="Test__content">{renderContent()}</div>
     </section>
   );
-};
+}
 
 export default App;
