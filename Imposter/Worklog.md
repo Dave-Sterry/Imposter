@@ -29,3 +29,5 @@
 9:23 - Research React Spring Parallax Scrolling, mess around with example on Codepen. 
 
 10:09 - Set up seperate project to further explore React Spring Parallax scrolling code
+
+10:50 - Figured out how layers are generated, how ojbects are placed on page. And how to scrolling horizontally! 
