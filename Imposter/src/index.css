@@ -1,3 +1,4 @@
+@import url("https://fonts.googleapis.com/css2?family=DotGothic16&display=swap");
 .container > div > div {
   display: flex;
   align-items: center;
@@ -7,7 +8,7 @@
 .text {
   pointer-events: none;
   justify-content: start !important;
-  font-family: 'Kanit', sans-serif;
+  font-family: 'DotGothic16', sans-serif;
   line-height: 0px;
   text-transform: uppercase;
 }

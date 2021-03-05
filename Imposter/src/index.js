@@ -1,19 +1,14 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import { Parallax, ParallaxLayer } from 'react-spring/renderprops-addons'
+import App from './components/App';
 
 
-class Story extends React.Component{
-  render() {
-    return(
-      <Parallax ref={ref => (this.parallax = ref)} horizontal={true} pages={10}>
-          <ParallaxLayer offset ={0} speed={1} style={{backgroundColor: ``, display: 'flex', alignItems: 'center', justifyContent: 'center'}} > <h1>Imposter</h1></ParallaxLayer>
-          <ParallaxLayer offset ={1} speed={1} style ={{backgroundColor: `#00ff00` }} />
-         
+ReactDOM.render(
+  <React.Fragment>
+    <App />
+  </React.Fragment>,
+   
+  
+  document.getElementById('root')
+); 
 
-      </Parallax>
-    )
-  }
-}
-
-ReactDOM.render(<Story />, document.getElementById('root'))

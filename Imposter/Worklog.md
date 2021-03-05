@@ -22,12 +22,16 @@
 
 3/5/21
 
-8:00 - Research styling methods for React 
+8:00am - Research styling methods for React 
 
-8:51 - Finish video on styling, need more coffe. 
+8:51am - Finish video on styling, need more coffe. 
 
-9:23 - Research React Spring Parallax Scrolling, mess around with example on Codepen. 
+9:23am - Research React Spring Parallax Scrolling, mess around with example on Codepen. 
 
-10:09 - Set up seperate project to further explore React Spring Parallax scrolling code
+10:09am - Set up seperate project to further explore React Spring Parallax scrolling code
 
-10:50 - Figured out how layers are generated, how ojbects are placed on page. And how to scrolling horizontally! 
+10:50am - Figured out how layers are generated, how ojbects are placed on page. And how to scrolling horizontally! 
+
+11:50am - add begining of parallax to project
+
+1:40pm - work on structuring story in parallax layers
