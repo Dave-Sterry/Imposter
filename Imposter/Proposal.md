@@ -2,28 +2,28 @@
 ### David Sterry
 
 ### Description
-A playable linear story that follows a character as they learn to deal with imposter syndrome. Critical moments in the story are emphasized by animated transitions between story elements. As the story progresses the player learns that what was confusing at the start has slowly become understandable. (Much like the process of a coding bootcamp!) with the story culminating in the character learning to accept and move past their imposter syndrome and previous animations combining to once more cohesive animations 
+A scrollable linear story that follows a character as they learn to deal with imposter syndrome.  Utlizing parallax scrolling each section has it's own images and background that emphasis the emotional content of that section. As the story progresses the player learns that what was confusing at the start has slowly become understandable. (Much like the process of a coding bootcamp!) with the story culminating in the character learning to accept and move past their imposter syndrome 
 
 ### Use Case
-Any one who likes videos games is a potential user for this project, and particularly anyone who has dealt with imposter syndrome. 
+Any one who has struggled with imposter syndrome is a potential user for this project
 
 ### Minimum Viable Product
 
-Clickable prompts to advance the story
-Musical transitions from Tone.js
-Custom styling for all story sections 
+Parallax Scrolling story, with different "sections" for parts of the story
+Different images and backgrounds for each story parallax "section"
+Landing page with prompt to start story
 
 ### Tools for MVP
 
 React	
-Anime.js
-Other animations to be decided
+React-Spring
 React Bootstrap
 CSS and styled components for styling 
 
 ### Additional Features
 (If you finish developing your MVP and have time to spare, what features do you want to work on next? Be specific.)
-Animations at story transitions 	
+Animations at story transitions 
+Musical prompts/puzzles using Tone.js
 Story requires either user input via Tone.js or a matching game using Tone.js to advance 
 All musical prompts are saved and compiled into a song at the end of the game. 
 Add users so progress can be saved
@@ -32,7 +32,7 @@ Volume control for sound output
 Animated background! 
 
 ### Tools for Additional Features
-React Reveal and React Animations for Animations 
+React Reveal and React Animations React Spring for Animations 
 NoSql for storing user song and save data (i think since we haven’t learned it yet)
 Tone.js for musical puzzles 
 Google/Facebook/Apple authenticator 

@@ -25,3 +25,7 @@
 8:00 - Research styling methods for React 
 
 8:51 - Finish video on styling, need more coffe. 
+
+9:23 - Research React Spring Parallax Scrolling, mess around with example on Codepen. 
+
+10:09 - Set up seperate project to further explore React Spring Parallax scrolling code
