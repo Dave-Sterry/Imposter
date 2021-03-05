@@ -4,7 +4,9 @@
   align-items: center;
   justify-content: center;
 }
-
+body {
+  font-family: 'DotGothic16', sans-serif;
+}
 .text {
   pointer-events: none;
   justify-content: start !important;
