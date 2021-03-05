@@ -20,3 +20,8 @@
 
 3:43pm - still can't figure out why sass wont work. Brain melting. 
 
+3/5/21
+
+8:00 - Research styling methods for React 
+
+8:51 - Finish video on styling, need more coffe. 

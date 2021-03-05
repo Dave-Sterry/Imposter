@@ -40,7 +40,7 @@ const renderContent = () =>(
     <section className= "Test">
       <div 
       className="Test__background" 
-      style={{ transform: `translateY(-${offsetY * 1.5}px)` }}
+      style={{ transform: `translateY(-${offsetY * 0.5}px)` }}
       />
       <div 
       className="Test__image" 
