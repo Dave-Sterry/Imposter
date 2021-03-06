@@ -35,3 +35,7 @@
 11:50am - add begining of parallax to project
 
 1:40pm - work on structuring story in parallax layers
+
+4:02pm - Start process of finding images for project. 
+
+4:50pm - Got lost in online photo resources. 
