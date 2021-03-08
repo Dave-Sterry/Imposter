@@ -52,24 +52,29 @@ class Story extends React.Component{
         <ParallaxLayer offset ={3} style={{backgroundColor: `#9DBBAE`, display :'flex', alignItems: 'center', justifyContent:'center', fontFamily: 'DotGothic16'}}
           ><h1>Boring</h1>
         </ParallaxLayer>
-
-        <ParallaxLayer offset ={3.1} speed={1.2} style={{ alignItems: 'top',  fontFamily: 'DotGothic16'}}
-          ><h1>Boring</h1>
+      
+        <ParallaxLayer offset ={3} speed={1.2} style={{ alignItems: 'top',  fontFamily: 'DotGothic16'}}
+          ><h1>This just in, this job is:</h1>
         </ParallaxLayer>
-        <ParallaxLayer offset ={3.2} speed={1.2} style={{ alignItems: 'top',  fontFamily: 'DotGothic16'}}
-          ><h1>Boring</h1>
-        </ParallaxLayer>
+      
         <ParallaxLayer offset ={3.3} speed={1.2} style={{ alignItems: 'top',  fontFamily: 'DotGothic16'}}
-          ><h1>Boring</h1>
+          ><h1>BORING</h1>
         </ParallaxLayer>
+        
         <ParallaxLayer offset ={3.4} speed={1.2} style={{ alignItems: 'top',  fontFamily: 'DotGothic16'}}
           ><h1>Boring</h1>
         </ParallaxLayer>
+        
         <ParallaxLayer offset ={3.5} speed={1.2} style={{ alignItems: 'top',  fontFamily: 'DotGothic16'}}
-          ><h1>Boring</h1>
+          ><h1>BORING</h1>
         </ParallaxLayer>
+        
         <ParallaxLayer offset ={3.6} speed={1.2} style={{ alignItems: 'top',  fontFamily: 'DotGothic16'}}
           ><h1>Boring</h1>
+        </ParallaxLayer>
+        
+        <ParallaxLayer offset ={3.7} speed={1.2} style={{ alignItems: 'top',  fontFamily: 'DotGothic16'}}
+          ><h1>BORING</h1>
         </ParallaxLayer>
 
         <ParallaxLayer offset={3.4} speed={0.9} >
