@@ -52,8 +52,28 @@ class Story extends React.Component{
         <ParallaxLayer offset ={3} style={{backgroundColor: `#9DBBAE`, display :'flex', alignItems: 'center', justifyContent:'center', fontFamily: 'DotGothic16'}}
           ><h1>Boring</h1>
         </ParallaxLayer>
-        <ParallaxLayer offset={3} speed={0.7} >
-          <img src={Desk} style={{width:'50%'}}/>
+
+        <ParallaxLayer offset ={3.1} speed={1.2} style={{ alignItems: 'top',  fontFamily: 'DotGothic16'}}
+          ><h1>Boring</h1>
+        </ParallaxLayer>
+        <ParallaxLayer offset ={3.2} speed={1.2} style={{ alignItems: 'top',  fontFamily: 'DotGothic16'}}
+          ><h1>Boring</h1>
+        </ParallaxLayer>
+        <ParallaxLayer offset ={3.3} speed={1.2} style={{ alignItems: 'top',  fontFamily: 'DotGothic16'}}
+          ><h1>Boring</h1>
+        </ParallaxLayer>
+        <ParallaxLayer offset ={3.4} speed={1.2} style={{ alignItems: 'top',  fontFamily: 'DotGothic16'}}
+          ><h1>Boring</h1>
+        </ParallaxLayer>
+        <ParallaxLayer offset ={3.5} speed={1.2} style={{ alignItems: 'top',  fontFamily: 'DotGothic16'}}
+          ><h1>Boring</h1>
+        </ParallaxLayer>
+        <ParallaxLayer offset ={3.6} speed={1.2} style={{ alignItems: 'top',  fontFamily: 'DotGothic16'}}
+          ><h1>Boring</h1>
+        </ParallaxLayer>
+
+        <ParallaxLayer offset={3.4} speed={0.9} >
+          <img src={Desk} style={{width:'35%', marginTop:'10%'}}/>
         </ParallaxLayer>
 
         <ParallaxLayer offset ={4} style={{backgroundColor: `#769FB6`, display :'flex', alignItems: 'center', justifyContent:'center', fontFamily: 'DotGothic16'}}></ParallaxLayer>

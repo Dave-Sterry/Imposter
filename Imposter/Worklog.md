@@ -48,4 +48,8 @@
 
 11:50am - make more images in XD for first page. 
 
+1:30pm - look for images for to describe boring
+
+
+
 
