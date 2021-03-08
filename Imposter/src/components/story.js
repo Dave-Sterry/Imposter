@@ -8,7 +8,15 @@ import Message2 from './img/Message2.png';
 import Message3 from './img/Message3.png';
 import Message4 from'./img/Message4.png';
 import Desk from './img/desk.jpg';
-
+import Clouds from './img/clouds.png';
+import Clouds2 from './img/Clouds2.png';
+import Clouds3 from './img/Clouds3.png';
+import Clouds4 from './img/Clouds4.png';
+import Clouds5 from './img/Clouds5.png';
+import Clouds6 from './img/Clouds6.png';
+import Clouds7 from './img/Clouds7.png';
+import Clouds8 from './img/Clouds8.png';
+import Clouds9 from './img/Clouds9.png';
 
 class Story extends React.Component{
   render() {
@@ -81,7 +89,48 @@ class Story extends React.Component{
           <img src={Desk} style={{width:'35%', marginTop:'10%'}}/>
         </ParallaxLayer>
 
-        <ParallaxLayer offset ={4} style={{backgroundColor: `#769FB6`, display :'flex', alignItems: 'center', justifyContent:'center', fontFamily: 'DotGothic16'}}></ParallaxLayer>
+        <ParallaxLayer offset ={4} style={{backgroundColor: `#769FB6`, display :'flex', alignItems: 'center', justifyContent:'center', fontFamily: 'DotGothic16'}}>
+          <h1>And so one day he finally pulls his head out of the clouds. </h1>
+        </ParallaxLayer>
+
+        <ParallaxLayer offset={4.2} speed={1.2}>
+          <img src={Clouds}></img>
+        </ParallaxLayer>
+
+        <ParallaxLayer offset={4.1} speed={1.4} opacity={0.6}>
+          <img src={Clouds2} style={{marginTop:'10%'}}></img>
+        </ParallaxLayer>
+
+        <ParallaxLayer offset={4.6} speed={1.5} opacity={0.6}>
+          <img src={Clouds3} style={{marginTop:'15%'}} ></img>
+        </ParallaxLayer>
+
+        <ParallaxLayer offset={4.4} speed={1.2} opacity={0.6}>
+          <img src={Clouds4} style={{marginTop:'30%'}} ></img>
+        </ParallaxLayer>
+
+        <ParallaxLayer offset={4.8} speed={0.6} opacity={0.6}>
+          <img src={Clouds5} style={{marginTop:'10%'}}></img>
+        </ParallaxLayer>
+
+        <ParallaxLayer offset={4.9} speed={0.8} opacity={0.6}>
+          <img src={Clouds6} style={{marginTop:'40%'}}></img>
+        </ParallaxLayer>
+
+
+        <ParallaxLayer offset={4.7} speed={0.75} opacity={0.6}>
+          <img src={Clouds7} style={{marginTop:'40%'}}></img>
+        </ParallaxLayer>
+
+
+        <ParallaxLayer offset={4.1} speed={1.6} opacity={0.6}>
+          <img src={Clouds8} style={{marginTop:'42%'}}></img>
+        </ParallaxLayer>
+
+
+        <ParallaxLayer offset={4.5} speed={1.3} opacity={0.6}>
+          <img src={Clouds9} style={{marginTop:'5%'}}></img>
+        </ParallaxLayer>
 
         <ParallaxLayer offset={5} style={{backgroundColor: `#188FA7`, display :'flex', alignItems: 'center', justifyContent:'center', fontFamily: 'DotGothic16'}}></ParallaxLayer>
 

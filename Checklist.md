@@ -33,6 +33,6 @@ Goals for Friday 3/5/21
 
 Goals for Monday 3/8/21
 
-- Add Story pages
-- Choose color theme (using Coolor) 
+- Add Story pages - 
+- Choose color theme (using Coolor) - done
 - Find images for story pages
