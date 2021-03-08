@@ -44,3 +44,6 @@
 
 9:00am - start picking colors on Coolor
 
+10:23am - making images to use in XD
+
+

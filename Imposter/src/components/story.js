@@ -2,6 +2,7 @@ import React from 'react';
 // import ReactDOM from 'react-dom';
 import { Parallax, ParallaxLayer } from 'react-spring/renderprops-addons'
 import Imposter from './img/Imposter.png';
+import Profile from './img/Profile.png';
 
 
 class Story extends React.Component{
@@ -10,7 +11,7 @@ class Story extends React.Component{
       <Parallax ref={ref => (this.parallax = ref)} horizontal={true} pages={14}>
           <ParallaxLayer offset ={0} speed={1} style={{backgroundColor: ``, display: 'flex', alignItems: 'center', justifyContent: 'center' , fontFamily: 'DotGothic16', color: '#ffffff'}} > 
           <h1>Imposter</h1> </ParallaxLayer>
-          <ParallaxLayer offset ={0.99} speed ={1} style ={{opactiy: 0.1}}>
+          <ParallaxLayer offset ={0.99} speed ={1} style ={{opacity: 1}}>
             <img src={Imposter} style= {{display: 'block', alignItems: 'center', justifyContent: 'center', width: '75%'}}/>
           </ParallaxLayer>
           <ParallaxLayer offset ={1} style={{backgroundColor: `#E2DBBE`, display: 'flex', alignItems: 'center', justifyContent: 'center', fontFamily: 'DotGothic16'}}>
@@ -18,6 +19,9 @@ class Story extends React.Component{
             </ParallaxLayer>
           <ParallaxLayer offset ={2} style={{backgroundColor: `#D5D6AA`, display: 'flex', alignItems: 'center', justifyContent: 'center', fontFamily: 'DotGothic16'}}>
           <h2>Imagine a man.  </h2>
+          </ParallaxLayer>
+          <ParallaxLayer offset ={2.5} speed ={1} style= {{opacity:1.0}}>
+            <img src={Profile} style={{marginTop:'10%'}} />
           </ParallaxLayer>
           <ParallaxLayer offset ={3} style={{backgroundColor: `#9DBBAE`, display :'flex', alignItems: 'center', justifyContent:'center', fontFamily: 'DotGothic16'}}></ParallaxLayer>
           <ParallaxLayer offset ={4} style={{backgroundColor: `#769FB6`, display :'flex', alignItems: 'center', justifyContent:'center', fontFamily: 'DotGothic16'}}></ParallaxLayer>
