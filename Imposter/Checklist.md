@@ -29,3 +29,10 @@ Goals for Friday 3/5/21
 - More completely layout project structure. 
     - I think it will be, A title page with a button to click to "start reading" this moves to the main page, main page contains all story set up with the parallax scrolling and hopefully animations. This keeps is super simple and straightforward. Move animations to stretch?
 - Decide on colors/ some images for scrolling 
+
+
+Goals for Monday 3/8/21
+
+- Add Story pages
+- Choose color theme (using Coolor)
+- Find images for story pages

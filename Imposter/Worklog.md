@@ -39,3 +39,8 @@
 4:02pm - Start process of finding images for project. 
 
 4:50pm - Got lost in online photo resources. 
+
+3/8/21
+
+9:00am - start picking colors on Coolor
+
