@@ -46,4 +46,6 @@
 
 10:23am - making images to use in XD
 
+11:50am - make more images in XD for first page. 
+
 
