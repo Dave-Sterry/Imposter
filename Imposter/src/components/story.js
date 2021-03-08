@@ -90,14 +90,14 @@ class Story extends React.Component{
         </ParallaxLayer>
 
         <ParallaxLayer offset ={4} style={{backgroundColor: `#769FB6`, display :'flex', alignItems: 'center', justifyContent:'center', fontFamily: 'DotGothic16'}}>
-          <h1>And so one day he finally pulls his head out of the clouds. </h1>
+          <h1>And so one day he finally pulls his head out of the clouds, and decides to make a change. </h1>
         </ParallaxLayer>
 
         <ParallaxLayer offset={4.2} speed={1.2}>
           <img src={Clouds}></img>
         </ParallaxLayer>
 
-        <ParallaxLayer offset={4.1} speed={1.4} opacity={0.6}>
+        <ParallaxLayer offset={4.1} speed={1.2} opacity={0.6}>
           <img src={Clouds2} style={{marginTop:'10%'}}></img>
         </ParallaxLayer>
 
@@ -132,7 +132,9 @@ class Story extends React.Component{
           <img src={Clouds9} style={{marginTop:'5%'}}></img>
         </ParallaxLayer>
 
-        <ParallaxLayer offset={5} style={{backgroundColor: `#188FA7`, display :'flex', alignItems: 'center', justifyContent:'center', fontFamily: 'DotGothic16'}}></ParallaxLayer>
+        <ParallaxLayer offset={5} style={{backgroundColor: `#188FA7`, display :'flex', alignItems: 'center', justifyContent:'center', fontFamily: 'DotGothic16'}}>
+          <h1></h1>
+        </ParallaxLayer>
 
         <ParallaxLayer offset={6} style={{backgroundColor: `#5D3A00`, display :'flex', alignItems: 'center', justifyContent:'center', fontFamily: 'DotGothic16'}}></ParallaxLayer>
 
@@ -148,7 +150,11 @@ class Story extends React.Component{
 
         <ParallaxLayer offset={12} style={{backgroundColor: `#54DEFD`,display :'flex', alignItems: 'center', justifyContent:'center', fontFamily: 'DotGothic16'}}></ParallaxLayer>
 
-        <ParallaxLayer offset={13} style={{backgroundColor: `#F0CF65`, display :'flex', alignItems: 'center', justifyContent:'center', fontFamily: 'DotGothic16'}}></ParallaxLayer>
+        <ParallaxLayer 
+        offset={13} 
+        style={{backgroundColor: `#F0CF65`, display :'flex', alignItems: 'center', justifyContent:'center', fontFamily: 'DotGothic16'}}
+        onClick={()=> this.parallax.scrollTo(0)}> 
+        </ParallaxLayer>
       
       </Parallax>
     )
