@@ -36,3 +36,9 @@ Goals for Monday 3/8/21
 - Add Story pages - 
 - Choose color theme (using Coolor) - done
 - Find images for story pages
+
+Goals for Tuesday 3/9/21
+
+- Finish story pages in simplest form
+- Start finding more images for remaining layers
+- Revise Readme as needed. 

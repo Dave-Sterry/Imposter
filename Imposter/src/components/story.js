@@ -193,12 +193,70 @@ class Story extends React.Component{
         </ParallaxLayer>
 
         <ParallaxLayer offset={8.7} speed ={0.2}>
-          <h1 style={{fontFamily:'DotGothic16', marginTop:'35%'}}>🐌 Other times it was frustratingly slow moving 🐌</h1>
+          <h1 style={{fontFamily:'DotGothic16', marginTop:'25%'}}>🐌 Other times it was frustratingly slow moving 🐌</h1>
         </ParallaxLayer>
 
-        <ParallaxLayer offset={9} style={{backgroundColor: `#77B28C`, display :'flex', alignItems: 'center', justifyContent:'center', fontFamily: 'DotGothic16'}}></ParallaxLayer>
+        <ParallaxLayer offset={8.7} speed ={1}>
+          <h1 style={{fontFamily:'DotGothic16', marginTop:'30%'}}>But mostly it was good</h1>
+        </ParallaxLayer>
+
+        <ParallaxLayer offset={9} style={{backgroundColor: `#77B28C`, display :'flex', alignItems: 'center', justifyContent:'center', fontFamily: 'DotGothic16'}}>
+          <h1>But sometimes a thought would get stuck in his head</h1>
+        </ParallaxLayer>
 
         <ParallaxLayer offset={10} style={{backgroundColor: ``, display :'flex', alignItems: 'center', justifyContent:'center', fontFamily: 'DotGothic16'}}></ParallaxLayer>
+
+        <ParallaxLayer offset={10.1} speed={1.1}>
+          <h1 style={{fontFamily:'DotGothic16', color:'#ffffff'}}>Imposter</h1>
+        </ParallaxLayer>
+
+        <ParallaxLayer offset={10.2} speed={1.1}>
+          <h1 style={{fontFamily:'DotGothic16', color:'#ffffff', marginTop:'5%'}}>Imposter</h1>
+        </ParallaxLayer>
+
+        <ParallaxLayer offset={10.3} speed={1.1}>
+          <h1 style={{fontFamily:'DotGothic16', color:'#ffffff', marginTop:'9%'}}>You're an Imposter</h1>
+        </ParallaxLayer>
+
+        <ParallaxLayer offset={10.4} speed={1.2}>
+          <h1 style={{fontFamily:'DotGothic16', color:'#ffffff', marginTop:'12%', fontSize:'large'}}>Imposter</h1>
+        </ParallaxLayer>
+
+        <ParallaxLayer offset={10.5} speed={1.5}>
+          <h1 style={{fontFamily:'DotGothic16', color:'#ffffff', marginTop:'15%'}}>Imposter</h1>
+        </ParallaxLayer>
+
+        <ParallaxLayer offset={10.6} speed={1}>
+          <h1 style={{fontFamily:'DotGothic16', color:'#ffffff', marginTop:'22%'}}>Imposter</h1>
+        </ParallaxLayer>
+
+        <ParallaxLayer offset={10.7} speed={0.9}>
+          <h1 style={{fontFamily:'DotGothic16', color:'#ffffff', marginTop:'27%'}}>Imposter</h1>
+        </ParallaxLayer>
+
+        <ParallaxLayer offset={10.8} speed={1.6}>
+          <h1 style={{fontFamily:'DotGothic16', color:'#ffffff',marginTop:'32%'}}>Imposter</h1>
+        </ParallaxLayer>
+
+        <ParallaxLayer offset={10.9} speed={1.3}>
+          <h1 style={{fontFamily:'DotGothic16', color:'#ffffff', marginTop:'38%'}}>Imposter</h1>
+        </ParallaxLayer>
+
+        <ParallaxLayer offset={10.1} speed={1.8}>
+          <h1 style={{fontFamily:'DotGothic16', color:'#ffffff', marginTop:'40%'}}>Imposter</h1>
+        </ParallaxLayer>
+
+        <ParallaxLayer offset={10.2} speed={1.4}>
+          <h1 style={{fontFamily:'DotGothic16', color:'#ffffff', marginTop:'42%', fontSize: 'small'}}>Imposter</h1>
+        </ParallaxLayer>
+
+        <ParallaxLayer offset={10.2} speed={-0.2}>
+          <h1 style={{fontFamily:'DotGothic16', color:'#ffffff', marginTop:'35%'}}>You're an Imposter</h1>
+        </ParallaxLayer>
+
+        <ParallaxLayer offset={10.3} speed={-0.4}>
+          <h1 style={{fontFamily:'DotGothic16', color:'#ffffff', marginTop:'17%'}}>Imposter</h1>
+        </ParallaxLayer>
 
         <ParallaxLayer offset={11} style={{backgroundColor: `#A9CEF4`, display :'flex', alignItems: 'center', justifyContent:'center', fontFamily: 'DotGothic16'}}></ParallaxLayer>
 
