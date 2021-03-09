@@ -17,6 +17,7 @@ import Clouds6 from './img/Clouds6.png';
 import Clouds7 from './img/Clouds7.png';
 import Clouds8 from './img/Clouds8.png';
 import Clouds9 from './img/Clouds9.png';
+import Trees from './img/Trees.jpg';
 
 class Story extends React.Component{
   render() {
@@ -89,56 +90,60 @@ class Story extends React.Component{
           <img src={Desk} style={{width:'35%', marginTop:'10%'}}/>
         </ParallaxLayer>
 
-        <ParallaxLayer offset ={4} style={{backgroundColor: `#769FB6`, display :'flex', alignItems: 'center', justifyContent:'center', fontFamily: 'DotGothic16'}}>
-          <h1>And so one day he finally pulls his head out of the clouds, and decides to make a change. </h1>
+        <ParallaxLayer offset ={4} style={{backgroundColor: `#769FB6`}}>
+        <img src={Trees} style ={{width: '100%'}}></img>
+        </ParallaxLayer>
+
+        <ParallaxLayer offset={4}>
+        <h1 style={{display :'flex', alignItems: 'center', justifyContent:'center', fontFamily: 'DotGothic16', marginTop: '20%'}}>And so one day he pulled his head out of the clouds and made a change</h1>
         </ParallaxLayer>
 
         <ParallaxLayer offset={4.2} speed={1.2}>
-          <img src={Clouds}></img>
+          <img src={Clouds} style={{opacity:0.4}}></img>
         </ParallaxLayer>
 
         <ParallaxLayer offset={4.1} speed={1.2}>
-          <img src={Clouds2} style={{marginTop:'10%', opacity: 0.9}}></img>
+          <img src={Clouds2} style={{marginTop:'10%', opacity: 0.3}}></img>
         </ParallaxLayer>
 
         <ParallaxLayer offset={4.6} speed={1.5} opacity={0.6}>
-          <img src={Clouds3} style={{marginTop:'15%', opacity: 0.9}} ></img>
+          <img src={Clouds3} style={{marginTop:'15%', opacity: 0.5}} ></img>
         </ParallaxLayer>
 
         <ParallaxLayer offset={4.4} speed={1.2} >
-          <img src={Clouds4} style={{marginTop:'30%', opacity: 0.9}} ></img>
+          <img src={Clouds4} style={{marginTop:'30%', opacity: 0.3}} ></img>
         </ParallaxLayer>
 
         <ParallaxLayer offset={4.8} speed={0.6} >
-          <img src={Clouds5} style={{marginTop:'10%', opacity: 0.9}}></img>
+          <img src={Clouds5} style={{marginTop:'10%', opacity: 0.5}}></img>
         </ParallaxLayer>
 
         <ParallaxLayer offset={4.9} speed={0.8} >
-          <img src={Clouds6} style={{marginTop:'40%', opacity: 0.9}}></img>
+          <img src={Clouds6} style={{marginTop:'40%', opacity: 0.4}}></img>
         </ParallaxLayer>
 
 
         <ParallaxLayer offset={4.7} speed={0.75} >
-          <img src={Clouds7} style={{marginTop:'40%', opacity: 0.9}}></img>
+          <img src={Clouds7} style={{marginTop:'40%', opacity: 0.2}}></img>
         </ParallaxLayer>
 
 
         <ParallaxLayer offset={4.1} speed={1.6} >
-          <img src={Clouds8} style={{marginTop:'42%', opacity: 0.9}}></img>
+          <img src={Clouds8} style={{marginTop:'42%', opacity: 0.5}}></img>
         </ParallaxLayer>
 
 
         <ParallaxLayer offset={4.5} speed={1.3} >
-          <img src={Clouds9} style={{marginTop:'5%', opacity: 0.9}}></img>
+          <img src={Clouds9} style={{marginTop:'5%', opacity: 0.3}}></img>
         </ParallaxLayer>
 
         <ParallaxLayer offset={5} style={{backgroundColor: `#188FA7`, display :'flex', alignItems: 'center', justifyContent:'center', fontFamily: 'DotGothic16'}}>
           <h1>After much thought, he decides to learn to code.</h1>
         </ParallaxLayer>
-
+{/* 
         <ParallaxLayer offset={5}>
           <img src={}></img>
-        </ParallaxLayer>
+        </ParallaxLayer> */}
 
         <ParallaxLayer offset={6} style={{backgroundColor: `#5D3A00`, display :'flex', alignItems: 'center', justifyContent:'center', fontFamily: 'DotGothic16'}}>
         </ParallaxLayer>
