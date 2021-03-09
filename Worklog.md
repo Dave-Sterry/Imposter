@@ -50,6 +50,12 @@
 
 1:30pm - look for images for to describe boring
 
+3/9/21
+
+9:20am - finished sending off internship emails
+
+
+
 
 
 

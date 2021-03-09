@@ -159,13 +159,38 @@ class Story extends React.Component{
           <h1 style={{marginTop: '10%'}}>Interesting choice</h1>
         </ParallaxLayer>
 
-        <ParallaxLayer offset={7} style={{backgroundColor: `#157A6E`, display :'flex', alignItems: 'center', justifyContent:'center', fontFamily: 'DotGothic16'}}></ParallaxLayer>
+        <ParallaxLayer offset={7} style={{backgroundColor: `#157A6E`, display :'flex', alignItems: 'center', justifyContent:'center', fontFamily: 'DotGothic16'}}>
+        </ParallaxLayer>
+
+        <ParallaxLayer offset={7.1} speed={1.2} style={{fontFamily:'DotGothic16'}} >
+          <h1 style={{marginTop: '10%'}}>His brain was...not kind to him.</h1>
+        </ParallaxLayer>
+
+        <ParallaxLayer offset={7.2} speed={1.2} style={{fontFamily:'DotGothic16'}} >
+          <h1 style={{marginTop: '15%'}}>But he knew the thoughts weren't really true.</h1>
+        </ParallaxLayer>
+
+        <ParallaxLayer offset={7.3} speed={1.2} style={{fontFamily:'DotGothic16'}} >
+          <h1 style={{marginTop: '20%'}}>He had done hard things before.</h1>
+        </ParallaxLayer>
+
+        <ParallaxLayer offset={7.4} speed={1.2} style={{fontFamily:'DotGothic16'}} >
+          <h1 style={{marginTop: '25%'}}>So he set those thoughts aside.</h1>
+        </ParallaxLayer>
+
+        <ParallaxLayer offset={7.5} speed={1.2} style={{fontFamily:'DotGothic16'}} >
+          <h1 style={{marginTop: '30%'}}>And started to learn.</h1>
+        </ParallaxLayer>
 
         <ParallaxLayer offset={8} style={{backgroundColor: `#499F68`, display :'flex', alignItems: 'center', justifyContent:'center', fontFamily: 'DotGothic16'}}></ParallaxLayer>
 
+        <ParallaxLayer offset={8} speed={{fontFamily:'DotGothic1'}}>
+          <
+        </ParallaxLayer>
+
         <ParallaxLayer offset={9} style={{backgroundColor: `#77B28C`, display :'flex', alignItems: 'center', justifyContent:'center', fontFamily: 'DotGothic16'}}></ParallaxLayer>
 
-        <ParallaxLayer offset={10} style={{backgroundColor: `#C2C5BB`, display :'flex', alignItems: 'center', justifyContent:'center', fontFamily: 'DotGothic16'}}></ParallaxLayer>
+        <ParallaxLayer offset={10} style={{backgroundColor: ``, display :'flex', alignItems: 'center', justifyContent:'center', fontFamily: 'DotGothic16'}}></ParallaxLayer>
 
         <ParallaxLayer offset={11} style={{backgroundColor: `#A9CEF4`, display :'flex', alignItems: 'center', justifyContent:'center', fontFamily: 'DotGothic16'}}></ParallaxLayer>
 
