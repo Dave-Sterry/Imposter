@@ -48,3 +48,5 @@ Goals for Wednesday 3/10/21
 
 - Don't forget to add updated planning doc! 
 - Polish styling 
+- Finish Readme
+- Styling touchup 

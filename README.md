@@ -113,7 +113,6 @@ Tone.js
 anime.js
 
 
-
 ## 📫 Support and contact details
 Authored by: David Sterry  
 If you have any issues during installation please follow the set up instructions again. - Email me at [David Sterry](mailto:sterry.david@gmail.com) in regards to this project. 
