@@ -54,6 +54,8 @@
 
 9:20am - finished sending off internship emails
 
+11:15am - updating Readme, editing proposal for clarity
+
 
 
 

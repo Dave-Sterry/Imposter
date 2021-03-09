@@ -11,13 +11,23 @@ Last updated on 02/26/21
 </p>
 
 ## 📖  Description
-
+A scrollable linear story that follows a character as they learn to deal with imposter syndrome. Built in React and utilizing the react-spring parallax scrolling effect each section has it's own images and background that emphasize the emotional content of that section. The story culminates with the character learning to accept and move past their imposter syndrome
 
 ## **User Stories**
+This story will appeal to anyone who has struggled with Imposter syndrome. 
 
 ## **MVP**
+Parallax Scrolling story, with different "sections" for parts of the story
+Different images and backgrounds for each story parallax "section"
+Parallax effect used to emphasize certain emotional content
+Return to start from end of page, so user doesn't have to scroll backward
 
 ## **Stretch Goals
+Landing page with prompt to start story
+Animations at story transitions 
+Animated background for some pages
+Animations trigger by clicks
+More fleshed out story
 
 
 ## 🔧 Setup & Requirements
