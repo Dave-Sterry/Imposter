@@ -338,8 +338,8 @@ class Story extends React.Component{
           <h1 style ={{fontFamily: 'DotGothic16',  color: '#ffffff', marginTop:'20%'}}>The End</h1> 
         </ParallaxLayer>
 
-        <ParallaxLayer offset={14.3} speed={1}>
-          <h1 style={{fontFamily: 'DotGothic16', color:'#ffffff', marginTop:'35%'}}>A Story by David Sterry </h1>
+        <ParallaxLayer offset={14.3} speed={0.7}>
+          <h1 style={{fontFamily: 'DotGothic16', color:'#ffffff', marginTop:'35%'}}>A Story by David Sterry. Contact via: <a href='mailto:sterry.david@gmail.com'>Email</a></h1>
         </ParallaxLayer>
       
       </Parallax>
