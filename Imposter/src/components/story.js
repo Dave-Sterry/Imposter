@@ -138,8 +138,8 @@ class Story extends React.Component{
 
         <ParallaxLayer offset={6} style={{backgroundColor: `#5D3A00`, display :'flex', alignItems: 'center', justifyContent:'center', fontFamily: 'DotGothic16'}}>
         </ParallaxLayer>
-       
-        <ParallaxLayer offset={6.1} speed ={-0.3}style={{fontFamily: 'DotGothic16'}}>
+      
+        <ParallaxLayer offset={6.1} speed ={1}style={{fontFamily: 'DotGothic16'}}>
           <h1 style={{marginTop: '25%'}}>Yeah good luck with that </h1>
         </ParallaxLayer>
         
@@ -181,11 +181,19 @@ class Story extends React.Component{
         <ParallaxLayer offset={7.5} speed={1.2} style={{fontFamily:'DotGothic16'}} >
           <h1 style={{marginTop: '30%'}}>And started to learn.</h1>
         </ParallaxLayer>
+        
+        <ParallaxLayer offset={7.6} speed={1.2} style={{fontFamily:'DotGothic16'}} >
+          <h1 style={{marginTop: '35%'}}>And it was challenging</h1>
+        </ParallaxLayer>
 
         <ParallaxLayer offset={8} style={{backgroundColor: `#499F68`, display :'flex', alignItems: 'center', justifyContent:'center', fontFamily: 'DotGothic16'}}></ParallaxLayer>
 
-        <ParallaxLayer offset={8} speed={{fontFamily:'DotGothic1'}}>
-          <
+        <ParallaxLayer offset={8} speed ={1.7}>
+          <h1 style={{fontFamily:'DotGothic16', marginTop:'20%'}}>Sometimes it flew by</h1>
+        </ParallaxLayer>
+
+        <ParallaxLayer offset={8.7} speed ={0.1}>
+          <h1 style={{fontFamily:'DotGothic16', marginTop:'35%'}}>Other times it was frustratingly slow moving</h1>
         </ParallaxLayer>
 
         <ParallaxLayer offset={9} style={{backgroundColor: `#77B28C`, display :'flex', alignItems: 'center', justifyContent:'center', fontFamily: 'DotGothic16'}}></ParallaxLayer>
