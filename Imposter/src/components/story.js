@@ -307,16 +307,23 @@ class Story extends React.Component{
 
         <ParallaxLayer 
         offset={13} 
-        style={{backgroundColor: `#F0CF65`, display :'flex', alignItems: 'center', justifyContent:'center', fontFamily: 'DotGothic16'}}
-        onClick={()=> this.parallax.scrollTo(0)}> 
+        style={{backgroundColor: `#F0CF65`}}>
         </ParallaxLayer>
 
-        <ParallaxLayer offset={13} style={{display :'flex', alignItems: 'center', justifyContent:'center'}}  >
-        <h1 style={{fontFamily: 'DotGothic16', fontSize:'x-small', marginTop:'40%'}}>Imposter</h1>
+        <ParallaxLayer 
+          offset={13}
+          speed={-0}
+          style= {{display :'flex', alignItems: 'center', justifyContent:'center', fontFamily: 'DotGothic16'}}
+          onClick={()=> this.parallax.scrollTo(0)}>
+        </ParallaxLayer>
+        
+        <ParallaxLayer offset={13.5} speed={1}>
+          <h1 style={{fontFamily: 'DotGothic16', fontSize:'x-small', marginTop:'40%'}}>Imposter</h1>
         </ParallaxLayer>
 
-        <ParallaxLayer offset={13} style={{display :'flex', alignItems: 'center', justifyContent:'center'}} >
-        </ParallaxLayer>
+        {/* <ParallaxLayer offset={13}> 
+          <h1 style={{display :'flex', alignItems: 'center', justifyContent:'center', fontFamily: 'DotGothic16'}}>The feeling may always be there. Small and in the background</h1>
+        </ParallaxLayer> */}
       
       </Parallax>
     )
