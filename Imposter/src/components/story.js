@@ -136,6 +136,10 @@ class Story extends React.Component{
           <h1>After much thought, he decides to learn to code.</h1>
         </ParallaxLayer>
 
+        <ParallaxLayer offset={5}>
+          <img src={}></img>
+        </ParallaxLayer>
+
         <ParallaxLayer offset={6} style={{backgroundColor: `#5D3A00`, display :'flex', alignItems: 'center', justifyContent:'center', fontFamily: 'DotGothic16'}}>
         </ParallaxLayer>
       

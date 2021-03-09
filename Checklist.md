@@ -42,3 +42,9 @@ Goals for Tuesday 3/9/21
 - Finish story pages in simplest form
 - Start finding more images for remaining layers
 - Revise Readme as needed. 
+- add credits for images used
+
+Goals for Wednesday 3/10/21
+
+- Don't forget to add updated planning doc! 
+- Polish styling 
