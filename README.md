@@ -36,7 +36,7 @@ More fleshed out story
  * A code editor of your choice. I use VSCode downloaded it [here](https://code.visualstudio.com/)
  *  **Node.js :** You can check if you have Node.js by running `node -v` in the command line. If you do not have Node.js please find more information and download [here](https://nodejs.org/en/)
  * you can also install node through Homebrew by running `brew install node` in the command line.
-* **Jest :** If your testing does not run, you may need to install Jest, you can do this by running `npm install jest@24.9.0 --save-dev` in the command line.
+
 
 ## **How to get this project** 
 
@@ -74,6 +74,15 @@ Scroll to the left and read the story.
 
 ### Project Planning Documentation 
 
+### Photo Credits
+Photo by <a href="https://unsplash.com/@markusspiske?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Markus Spiske</a> on <a href="/collections/4651415/coding?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a> Code Image
+
+ <a href="http://www.freepik.com">Designed by Creativetoons / Freepik</a> Person asleep at desk
+
+<a href="http://www.freepik.com">Designed by pch.vector / Freepik</a> Clouds
+  
+  Photo by <a href="https://unsplash.com/@chrislawton?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Chris Lawton</a> on <a href="/t/nature?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+  Trees background image
 
 
 
@@ -94,7 +103,6 @@ There are no known bugs at this time.
 * ESLint
 * CSS
 * HMTL
-* node.js
 * VSCode
 * created using ```create-react-app```
 * react-spring 

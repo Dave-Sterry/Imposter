@@ -67,11 +67,11 @@ Photo credits
 
 Photo by <a href="https://unsplash.com/@markusspiske?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Markus Spiske</a> on <a href="/collections/4651415/coding?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a> code image
   
-  <a href="http://www.freepik.com">Designed by Creativetoons / Freepik</a>
+  <a href="http://www.freepik.com">Designed by Creativetoons / Freepik</a> desk
 
-  <a href="http://www.freepik.com">Designed by pch.vector / Freepik</a>
+  <a href="http://www.freepik.com">Designed by pch.vector / Freepik</a> clouds
 
-  Photo by <a href="https://unsplash.com/@ejfotografik?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Eric Jacob</a> on <a href="/t/nature?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a> trees
+ 
 
   Photo by <a href="https://unsplash.com/@chrislawton?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Chris Lawton</a> on <a href="/t/nature?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
   trees horizon
