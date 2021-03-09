@@ -22,9 +22,10 @@ import Trees from './img/Trees.jpg';
 class Story extends React.Component{
   render() {
     return(
-      <Parallax ref={ref => (this.parallax = ref)} horizontal={true} pages={14}>
+      <Parallax ref={ref => (this.parallax = ref)} horizontal={true} pages={15}>
         <ParallaxLayer offset ={0} speed={1} style={{backgroundColor: ``, display: 'flex', alignItems: 'center', justifyContent: 'center' , fontFamily: 'DotGothic16',  color: '#ffffff'}} > 
-          <h1>Imposter</h1> </ParallaxLayer>
+          <h1>Imposter</h1> 
+        </ParallaxLayer>
           
         <ParallaxLayer offset ={0.99} speed ={1} style ={{opacity: 1}}>
           <img src={Imposter} style= {{display: 'block', alignItems: 'center', justifyContent: 'center', width: '75%'}}/>
@@ -310,20 +311,36 @@ class Story extends React.Component{
         style={{backgroundColor: `#F0CF65`}}>
         </ParallaxLayer>
 
-        <ParallaxLayer 
-          offset={13}
-          speed={-0}
-          style= {{display :'flex', alignItems: 'center', justifyContent:'center', fontFamily: 'DotGothic16'}}
-          onClick={()=> this.parallax.scrollTo(0)}>
-        </ParallaxLayer>
-        
         <ParallaxLayer offset={13.5} speed={1}>
           <h1 style={{fontFamily: 'DotGothic16', fontSize:'x-small', marginTop:'40%'}}>Imposter</h1>
         </ParallaxLayer>
 
-        {/* <ParallaxLayer offset={13}> 
-          <h1 style={{display :'flex', alignItems: 'center', justifyContent:'center', fontFamily: 'DotGothic16'}}>The feeling may always be there. Small and in the background</h1>
-        </ParallaxLayer> */}
+        <ParallaxLayer offset={13.2} speed ={0.5}> 
+          <h1 style={{fontFamily: 'DotGothic16', marginTop: '20%'}}>The feeling may always be there. Small and in the background</h1>
+        </ParallaxLayer>
+
+        <ParallaxLayer offset={13.3} speed ={1}> 
+          <h1 style={{fontFamily: 'DotGothic16', marginTop: '25%'}}>But that didn't mean it was true</h1>
+        </ParallaxLayer>
+
+        <ParallaxLayer offset={13.4} speed ={1.2}> 
+          <h1 style={{fontFamily: 'DotGothic16', marginTop: '30%'}}>By accepting this fact he could move forward</h1>
+        </ParallaxLayer>
+
+        <ParallaxLayer 
+          offset={14}
+          speed={-0}
+          style= {{display :'flex', alignItems: 'center', justifyContent:'center', fontFamily: 'DotGothic16'}}
+          onClick={()=> this.parallax.scrollTo(0)}>
+        </ParallaxLayer>
+
+        <ParallaxLayer offset ={14.5} speed={1} style={{backgroundColor: `` }} > 
+          <h1 style ={{fontFamily: 'DotGothic16',  color: '#ffffff', marginTop:'20%'}}>The End</h1> 
+        </ParallaxLayer>
+
+        <ParallaxLayer offset={14.3} speed={1}>
+          <h1 style={{fontFamily: 'DotGothic16', color:'#ffffff', marginTop:'35%'}}>A Story by David Sterry </h1>
+        </ParallaxLayer>
       
       </Parallax>
     )
