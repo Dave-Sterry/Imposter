@@ -30,11 +30,11 @@ class Story extends React.Component{
         </ParallaxLayer>
           
         <ParallaxLayer offset ={1} style={{backgroundColor: `#E2DBBE`, display: 'flex', alignItems: 'center', justifyContent: 'center', fontFamily: 'DotGothic16'}}>
-          <h2>A personal story: But maybe you can relate</h2>
+          <h1>A personal story: But maybe you can relate</h1>
         </ParallaxLayer>
       
         <ParallaxLayer offset ={2} style={{backgroundColor: `#D5D6AA`, display: 'flex', alignItems: 'center', justifyContent: 'center', fontFamily: 'DotGothic16'}}>
-          <h2>Imagine a man.  </h2>
+          <h1>Imagine a man. </h1>
         </ParallaxLayer>
           
         <ParallaxLayer offset ={2.4} speed ={1.4} style= {{opacity:1.0}}>
@@ -153,6 +153,10 @@ class Story extends React.Component{
 
         <ParallaxLayer offset={6.7} speed ={1.5}style={{fontFamily: 'DotGothic16'}}>
           <h1 style={{marginTop: '45%'}}>Seems like a big change for you</h1>
+        </ParallaxLayer>
+
+        <ParallaxLayer offset={6.9} speed ={1.2}style={{fontFamily: 'DotGothic16'}}>
+          <h1 style={{marginTop: '10%'}}>Interesting choice</h1>
         </ParallaxLayer>
 
         <ParallaxLayer offset={7} style={{backgroundColor: `#157A6E`, display :'flex', alignItems: 'center', justifyContent:'center', fontFamily: 'DotGothic16'}}></ParallaxLayer>
