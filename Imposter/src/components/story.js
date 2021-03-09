@@ -133,10 +133,27 @@ class Story extends React.Component{
         </ParallaxLayer>
 
         <ParallaxLayer offset={5} style={{backgroundColor: `#188FA7`, display :'flex', alignItems: 'center', justifyContent:'center', fontFamily: 'DotGothic16'}}>
-          <h1></h1>
+          <h1>After much thought, he decides to learn to code.</h1>
         </ParallaxLayer>
 
-        <ParallaxLayer offset={6} style={{backgroundColor: `#5D3A00`, display :'flex', alignItems: 'center', justifyContent:'center', fontFamily: 'DotGothic16'}}></ParallaxLayer>
+        <ParallaxLayer offset={6} style={{backgroundColor: `#5D3A00`, display :'flex', alignItems: 'center', justifyContent:'center', fontFamily: 'DotGothic16'}}>
+        </ParallaxLayer>
+       
+        <ParallaxLayer offset={6.1} speed ={-0.3}style={{fontFamily: 'DotGothic16'}}>
+          <h1 style={{marginTop: '25%'}}>Yeah good luck with that </h1>
+        </ParallaxLayer>
+        
+        <ParallaxLayer offset={6.4} speed ={1.2}style={{fontFamily: 'DotGothic16'}}>
+          <h1 style={{marginTop: '15%'}}>Coding is hard isn't it? </h1>
+        </ParallaxLayer>
+
+        <ParallaxLayer offset={6.2} speed ={1.1}style={{fontFamily: 'DotGothic16'}}>
+          <h1 style={{marginTop: '35%'}}>You really think you can do that? </h1>
+        </ParallaxLayer>
+
+        <ParallaxLayer offset={6.7} speed ={1.5}style={{fontFamily: 'DotGothic16'}}>
+          <h1 style={{marginTop: '45%'}}>Seems like a big change for you</h1>
+        </ParallaxLayer>
 
         <ParallaxLayer offset={7} style={{backgroundColor: `#157A6E`, display :'flex', alignItems: 'center', justifyContent:'center', fontFamily: 'DotGothic16'}}></ParallaxLayer>
 
