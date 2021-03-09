@@ -138,7 +138,7 @@ class Story extends React.Component{
         </ParallaxLayer>
 
         <ParallaxLayer offset={5} style={{backgroundColor: `#188FA7`, display :'flex', alignItems: 'center', justifyContent:'center', fontFamily: 'DotGothic16'}}>
-          <h1>After much thought, he decides to learn to code.</h1>
+          <h1>After much thought, he decides to learn to code 👨‍💻 🖥</h1>
         </ParallaxLayer>
 {/* 
         <ParallaxLayer offset={5}>
@@ -172,27 +172,27 @@ class Story extends React.Component{
         </ParallaxLayer>
 
         <ParallaxLayer offset={7.1} speed={1.2} style={{fontFamily:'DotGothic16'}} >
-          <h1 style={{marginTop: '10%'}}>His brain was...not kind to him.</h1>
+          <h1 style={{marginTop: '10%'}}>His 🧠 was...not kind to him 👎</h1>
         </ParallaxLayer>
 
         <ParallaxLayer offset={7.2} speed={1.2} style={{fontFamily:'DotGothic16'}} >
-          <h1 style={{marginTop: '15%'}}>But he knew the thoughts weren't really true.</h1>
+          <h1 style={{marginTop: '15%'}}>But he knew the thoughts weren't really true 🤬</h1>
         </ParallaxLayer>
 
         <ParallaxLayer offset={7.3} speed={1.2} style={{fontFamily:'DotGothic16'}} >
-          <h1 style={{marginTop: '20%'}}>He had done hard things before.</h1>
+          <h1 style={{marginTop: '20%'}}>He had done hard things before 💯</h1>
         </ParallaxLayer>
 
         <ParallaxLayer offset={7.4} speed={1.2} style={{fontFamily:'DotGothic16'}} >
-          <h1 style={{marginTop: '25%'}}>So he set those thoughts aside.</h1>
+          <h1 style={{marginTop: '25%'}}>So he set those thoughts aside 🖕</h1>
         </ParallaxLayer>
 
         <ParallaxLayer offset={7.5} speed={1.2} style={{fontFamily:'DotGothic16'}} >
-          <h1 style={{marginTop: '30%'}}>And started to learn.</h1>
+          <h1 style={{marginTop: '30%'}}>And started to learn 🤓 </h1>
         </ParallaxLayer>
         
         <ParallaxLayer offset={7.6} speed={1.2} style={{fontFamily:'DotGothic16'}} >
-          <h1 style={{marginTop: '35%'}}>And it was challenging</h1>
+          <h1 style={{marginTop: '35%'}}>And it was challenging 😓</h1>
         </ParallaxLayer>
 
         <ParallaxLayer offset={8} style={{backgroundColor: `#499F68`, display :'flex', alignItems: 'center', justifyContent:'center', fontFamily: 'DotGothic16'}}></ParallaxLayer>
@@ -275,12 +275,47 @@ class Story extends React.Component{
 
         <ParallaxLayer offset={11} style={{backgroundColor: `#A9CEF4`, display :'flex', alignItems: 'center', justifyContent:'center', fontFamily: 'DotGothic16'}}></ParallaxLayer>
 
+        <ParallaxLayer offset={11.3} speed={1}>
+          <h1 style={{fontFamily:'DotGothic16', marginTop:'5%'}}>There were times it felt like nothing he did worked</h1>
+        </ParallaxLayer>
+
+        <ParallaxLayer offset={11.3} speed={1}>
+          <h1 style={{fontFamily:'DotGothic16', marginTop:'15%'}}>or no project was really good enough</h1>
+        </ParallaxLayer>
+
+        <ParallaxLayer offset={11.3} speed={1}>
+          <h1 style={{fontFamily:'DotGothic16', marginTop:'25%'}}>or who would want to hire him anyway?</h1>
+        </ParallaxLayer>
+
+        <ParallaxLayer offset={11.3} speed={1}>
+          <h1 style={{fontFamily: 'DotGothic16', marginTop:'35%'}}>Then he would take a breath and remember</h1>
+        </ParallaxLayer>
+
         <ParallaxLayer offset={12} style={{backgroundColor: `#54DEFD`,display :'flex', alignItems: 'center', justifyContent:'center', fontFamily: 'DotGothic16'}}></ParallaxLayer>
+
+        <ParallaxLayer offset={12} speed={1}>
+          <h1 style={{fontFamily: 'DotGothic16', marginTop:'10%'}}>He had done hard things before</h1>
+        </ParallaxLayer>
+
+        <ParallaxLayer offset={12} speed={1}>
+          <h1 style={{fontFamily: 'DotGothic16', marginTop:'20%'}}>✨ He was the magic ✨</h1>
+        </ParallaxLayer>
+
+        <ParallaxLayer offset={12} speed={1}>
+          <h1 style={{fontFamily: 'DotGothic16', marginTop:'30%'}}>And he would do hard things again</h1>
+        </ParallaxLayer>
 
         <ParallaxLayer 
         offset={13} 
         style={{backgroundColor: `#F0CF65`, display :'flex', alignItems: 'center', justifyContent:'center', fontFamily: 'DotGothic16'}}
         onClick={()=> this.parallax.scrollTo(0)}> 
+        </ParallaxLayer>
+
+        <ParallaxLayer offset={13} style={{display :'flex', alignItems: 'center', justifyContent:'center'}}  >
+        <h1 style={{fontFamily: 'DotGothic16', fontSize:'x-small', marginTop:'40%'}}>Imposter</h1>
+        </ParallaxLayer>
+
+        <ParallaxLayer offset={13} style={{display :'flex', alignItems: 'center', justifyContent:'center'}} >
         </ParallaxLayer>
       
       </Parallax>
