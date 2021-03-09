@@ -41,13 +41,11 @@ Last updated on 02/26/21
 ### 🧰  Setup Options
 
 1. Open the project in your code editor of choice 
-2. In the Terminal navigate to the project folder in this case Tap-Room
+2. In the Terminal navigate to the project folder in this case Imposter
 3. Run ```npm install``` to install required dependencies 
 4. Run ```npm start``` This will run the app in the development mode.
 5. Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
-#### `npm test`
 
-This allows you to test the applications action creators and reducers.
 
 #### `npm run build`
 
@@ -61,6 +59,7 @@ The page will reload if you make edits.\
 You will also see any lint errors in the console.
 
 ### How to use the site. 
+Scroll to the left and read the story. 
 
 
 ### Project Planning Documentation 
@@ -71,6 +70,7 @@ You will also see any lint errors in the console.
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## 🐛 Known Bugs
+There are no known bugs at this time. 
 
 
 ## 🛠️ Technologies Used
@@ -84,15 +84,15 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 * ESLint
 * CSS
 * HMTL
-* Bootstrap
 * node.js
 * VSCode
 * created using ```create-react-app```
-* Redux 
-* anime.js 
+* react-spring 
+
 
 ## Stretch
 Tone.js
+anime.js
 
 
 
