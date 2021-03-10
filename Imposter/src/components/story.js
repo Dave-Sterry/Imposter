@@ -173,37 +173,37 @@ class Story extends React.Component{
         </ParallaxLayer>
 
         <ParallaxLayer offset={7.1} speed={1.2} style={{fontFamily:'DotGothic16'}} >
-          <h1 style={{marginTop: '10%'}}>His <span role="image" aria-label="brain">🧠</span> was...not kind to him <span role="image" aria-label="thumbs down">👎</span></h1>
+          <h1 style={{marginTop: '10%'}}>His <span role="img" aria-label="brain">🧠</span> was...not kind to him <span role="img" aria-label="thumbs down">👎</span></h1>
         </ParallaxLayer>
 
         <ParallaxLayer offset={7.2} speed={1.2} style={{fontFamily:'DotGothic16'}} >
-          <h1 style={{marginTop: '15%'}}>But he knew the thoughts weren't really true <span role="image" aria-label="swearing face">🤬 </span></h1>
+          <h1 style={{marginTop: '15%'}}>But he knew the thoughts weren't really true <span role="img" aria-label="face with symbols over mouth">🤬 </span></h1>
         </ParallaxLayer>
 
         <ParallaxLayer offset={7.3} speed={1.2} style={{fontFamily:'DotGothic16'}} >
-          <h1 style={{marginTop: '20%'}}>He had done hard things before 💯</h1>
+          <h1 style={{marginTop: '20%'}}>He had done hard things before <span role="img" aria-label="hundred points symbol">💯</span></h1>
         </ParallaxLayer>
 
         <ParallaxLayer offset={7.4} speed={1.2} style={{fontFamily:'DotGothic16'}} >
-          <h1 style={{marginTop: '25%'}}>So he set those thoughts aside 🖕</h1>
+          <h1 style={{marginTop: '25%'}}>So he set those thoughts aside <span role="img" aria-label="middle finger">🖕</span></h1>
         </ParallaxLayer>
 
         <ParallaxLayer offset={7.5} speed={1.2} style={{fontFamily:'DotGothic16'}} >
-          <h1 style={{marginTop: '30%'}}>And started to learn 🤓 </h1>
+          <h1 style={{marginTop: '30%'}}>And started to learn <span role="img" aria-label="smiling face with glasses">🤓</span></h1>
         </ParallaxLayer>
         
         <ParallaxLayer offset={7.6} speed={1.2} style={{fontFamily:'DotGothic16'}} >
-          <h1 style={{marginTop: '35%'}}>And it was challenging 😓</h1>
+          <h1 style={{marginTop: '35%'}}>And it was challenging <span role="img" aria-label="downcast face with sweat">😓</span></h1>
         </ParallaxLayer>
 
         <ParallaxLayer offset={8} style={{backgroundColor: `#499F68`, display :'flex', alignItems: 'center', justifyContent:'center', fontFamily: 'DotGothic16'}}></ParallaxLayer>
 
         <ParallaxLayer offset={8} speed ={1.7}>
-          <h1 style={{fontFamily:'DotGothic16', marginTop:'20%'}}> 🚀 Sometimes it flew by 🚀</h1>
+          <h1 style={{fontFamily:'DotGothic16', marginTop:'20%'}}> <span role="img" aria-label="rocket">🚀 </span>Sometimes it flew by <span role="img" aria-label="rocket">🚀 </span></h1>
         </ParallaxLayer>
 
         <ParallaxLayer offset={8.7} speed ={0.2}>
-          <h1 style={{fontFamily:'DotGothic16', marginTop:'25%'}}>🐌 Other times it was frustratingly slow moving 🐌</h1>
+          <h1 style={{fontFamily:'DotGothic16', marginTop:'25%'}}><span role="img" aria-label="snail">🐌 </span>Other times it was frustratingly slow moving <span role="img" aria-label="snail">🐌 </span></h1>
         </ParallaxLayer>
 
         <ParallaxLayer offset={8.7} speed ={1}>
@@ -299,7 +299,7 @@ class Story extends React.Component{
         </ParallaxLayer>
 
         <ParallaxLayer offset={12} speed={1}>
-          <h1 style={{fontFamily: 'DotGothic16', marginTop:'20%'}}>✨ He was the magic ✨</h1>
+          <h1 style={{fontFamily: 'DotGothic16', marginTop:'20%'}}><span role="img" aria-label="sparkles">✨</span> He was the magic <span role="img" aria-label="sparkles">✨</span></h1>
         </ParallaxLayer>
 
         <ParallaxLayer offset={12} speed={1}>
