@@ -49,4 +49,3 @@ Goals for Wednesday 3/10/21
 - Polish styling 
 - Finish Readme
 - Styling touchup 
-- figure out emoji aria labels

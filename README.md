@@ -1,4 +1,4 @@
-# Imposter The Game
+# Imposter A Story
 <div align="center">
 <img src="https://github.com/Dave-Sterry.png" width="200px" height="auto">
 </div>
@@ -7,27 +7,27 @@
 <h2 align = 'center'>A React website by David Sterry </h2>
 <p align = 'center'>
 Initialized on 02/26/21
-Last updated on 02/26/21
+Last updated on 03/10/21
 </p>
 
-## 📖  Description
+## 🌐 Description
 A scrollable linear story that follows a character as they learn to deal with imposter syndrome. Built in React and utilizing the react-spring parallax scrolling effect each section has it's own images and background that emphasize the emotional content of that section. The story culminates with the character learning to accept and move past their imposter syndrome
 
-## **User Stories**
+## 📖 **User Stories**
 This story will appeal to anyone who has struggled with Imposter syndrome. 
 
 ## **MVP**
-Parallax Scrolling story, with different "sections" for parts of the story
-Different images and backgrounds for each story parallax "section"
-Parallax effect used to emphasize certain emotional content
-Return to start from end of page, so user doesn't have to scroll backward
+* Parallax Scrolling story, with different "sections" for parts of the story
+* Different images and backgrounds for each story parallax "section"
+* Parallax effect used to emphasize certain emotional content
+* Return to start from end of page, so user doesn't have to scroll backward
 
-## **Stretch Goals
-Landing page with prompt to start story
-Animations at story transitions 
-Animated background for some pages
-Animations trigger by clicks
-More fleshed out story
+## 🙆 **Stretch Goals**
+* Landing page with prompt to start story
+* Animations at story transitions 
+* Animated background for some pages
+* Animations triggered by clicks
+* More fleshed out story
 
 
 ## 🔧 Setup & Requirements
@@ -72,11 +72,11 @@ You will also see any lint errors in the console.
 Scroll to the left and read the story. 
 
 
-### Project Planning Documentation 
+### 📑 Project Planning Documentation 
 
 <img src='./Imposter/readmeassets/Imposter-Planning.png'>
 
-### Photo Credits
+### 📸 Photo Credits
 Photo by <a href="https://unsplash.com/@markusspiske?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Markus Spiske</a> on <a href="/collections/4651415/coding?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a> Code Image
 
  <a href="http://www.freepik.com">Designed by Creativetoons / Freepik</a> Person asleep at desk
@@ -90,7 +90,7 @@ Photo by <a href="https://unsplash.com/@markusspiske?utm_source=unsplash&utm_med
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## 🐛 Known Bugs
+## 🪲 Known Bugs
 Doesn't scale properly when screen size gets smaller
 
 
@@ -109,19 +109,24 @@ Doesn't scale properly when screen size gets smaller
 * created using ```create-react-app```
 * react-spring 
 
+## Stretch Goals Tools
+* Tone.js
+* anime.js
+* React-spring
 
-## Stretch
-Tone.js
-anime.js
 
+## 📫 Contributors
+| Author | Github | Email |
+|--------|--------|-------|
+| David Sterry | [https://github.com/Dave-Sterry] | [sterry.david@gmail.com]  
 
-## 📫 Support and contact details
-Authored by: David Sterry  
-If you have any issues during installation please follow the set up instructions again. - Email me at [David Sterry](mailto:sterry.david@gmail.com) in regards to this project. 
-
+## ✉️ Contact and Support
+If you any feedback or questions, please contact me 
+  
+  
 ## 📘 License
 
-This project is licensed under **MIT 2.0**
+```This project is licensed under **MIT 2.0**
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
 in the Software without restriction, including without limitation the rights
@@ -138,7 +143,7 @@ FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
 AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+SOFTWARE.```
 
 Copyright © 2020 David Sterry
 
