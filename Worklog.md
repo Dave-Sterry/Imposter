@@ -69,6 +69,13 @@
 
 9:47am - Got site launched on GH Pages. 
 
+10:14am - Research break points with parallax
+
+1:20pm - Give up on break points for now. 
+
+
+
+
 
 
 
