@@ -334,11 +334,11 @@ class Story extends React.Component{
           onClick={()=> this.parallax.scrollTo(0)}>
         </ParallaxLayer>
 
-        <ParallaxLayer offset ={14.5} speed={1} style={{backgroundColor: `` }} > 
+        <ParallaxLayer offset ={14.3} speed={0.5} style={{backgroundColor: `` }} > 
           <h1 style ={{fontFamily: 'DotGothic16',  color: '#ffffff', marginTop:'20%'}}>The End</h1> 
         </ParallaxLayer>
 
-        <ParallaxLayer offset={14.3} speed={0.7}>
+        <ParallaxLayer offset={14.3} speed={1.2}>
           <h1 style={{fontFamily: 'DotGothic16', color:'#ffffff', marginTop:'35%'}}>A Story by David Sterry. Contact via: <a href='mailto:sterry.david@gmail.com'>Email</a></h1>
         </ParallaxLayer>
       
