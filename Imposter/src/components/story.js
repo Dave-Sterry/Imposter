@@ -28,7 +28,7 @@ class Story extends React.Component{
         </ParallaxLayer>
           
         <ParallaxLayer offset ={0.99} speed ={1} style ={{opacity: 1}}>
-          <img src={Imposter} style= {{display: 'block', alignItems: 'center', justifyContent: 'center', width: '75%'}}/>
+          <img src={Imposter} style= {{display: 'block', alignItems: 'center', justifyContent: 'center', width: '75%'}} alt="masks"/>
         </ParallaxLayer>
           
         <ParallaxLayer offset ={1} style={{backgroundColor: `#E2DBBE`, display: 'flex', alignItems: 'center', justifyContent: 'center', fontFamily: 'DotGothic16'}}>
@@ -40,23 +40,23 @@ class Story extends React.Component{
         </ParallaxLayer>
           
         <ParallaxLayer offset ={2.4} speed ={1.4} style= {{opacity:1.0}}>
-          <img src={Profile} style={{marginTop:'10%'}} />
+          <img src={Profile} style={{marginTop:'10%'}} alt="social media clone" />
         </ParallaxLayer>
 
         <ParallaxLayer offset={2.7} speed ={0.6} style ={{opacity: 0.8}}>
-          <img src={Message1} style ={{marginTop:'7%'}}/>
+          <img src={Message1} style ={{marginTop:'7%'}} alt="text message"/>
         </ParallaxLayer>
 
         <ParallaxLayer offset={2.7} speed ={0.6} style ={{opacity: 0.8}}>
-          <img src={Message2} style ={{marginTop:'15%'}}/>
+          <img src={Message2} style ={{marginTop:'15%'}} alt="text message"/>
         </ParallaxLayer>
 
         <ParallaxLayer offset={2.8} speed ={0.6} style ={{opacity: 0.8}}>
-          <img src={Message3} style ={{marginTop:'18%'}}/>
+          <img src={Message3} style ={{marginTop:'18%'}}alt ="text message"/>
         </ParallaxLayer>
 
         <ParallaxLayer offset={2.9} speed ={0.6} style ={{opacity: 0.8}}>
-          <img src={Message4} style ={{marginTop:'22%'}}/>
+          <img src={Message4} style ={{marginTop:'22%'}} alt="text message"/>
         </ParallaxLayer>
         
         <ParallaxLayer offset ={3} style={{backgroundColor: `#9DBBAE`, display :'flex', alignItems: 'center', justifyContent:'center', fontFamily: 'DotGothic16'}}
@@ -88,11 +88,11 @@ class Story extends React.Component{
         </ParallaxLayer>
 
         <ParallaxLayer offset={3.4} speed={0.9} >
-          <img src={Desk} style={{width:'35%', marginTop:'10%'}}/>
+          <img src={Desk} style={{width:'35%', marginTop:'10%'}} alt ="man asleep at a desk"/>
         </ParallaxLayer>
 
         <ParallaxLayer offset ={4} style={{backgroundColor: `#769FB6`}}>
-        <img src={Trees} style ={{width: '100%'}}></img>
+        <img src={Trees} style ={{width: '100%'}} alt="trees in the fog"></img>
         </ParallaxLayer>
 
         <ParallaxLayer offset={4}>
@@ -100,46 +100,46 @@ class Story extends React.Component{
         </ParallaxLayer>
 
         <ParallaxLayer offset={4.2} speed={1.2}>
-          <img src={Clouds} style={{opacity:0.4}}></img>
+          <img src={Clouds} style={{opacity:0.4}}alt="cloud"></img>
         </ParallaxLayer>
 
         <ParallaxLayer offset={4.1} speed={1.2}>
-          <img src={Clouds2} style={{marginTop:'10%', opacity: 0.3}}></img>
+          <img src={Clouds2} style={{marginTop:'10%', opacity: 0.3}}alt="cloud"></img>
         </ParallaxLayer>
 
         <ParallaxLayer offset={4.6} speed={1.5} opacity={0.6}>
-          <img src={Clouds3} style={{marginTop:'15%', opacity: 0.5}} ></img>
+          <img src={Clouds3} style={{marginTop:'15%', opacity: 0.5}}alt="cloud" ></img>
         </ParallaxLayer>
 
         <ParallaxLayer offset={4.4} speed={1.2} >
-          <img src={Clouds4} style={{marginTop:'30%', opacity: 0.3}} ></img>
+          <img src={Clouds4} style={{marginTop:'30%', opacity: 0.3}}alt="cloud" ></img>
         </ParallaxLayer>
 
         <ParallaxLayer offset={4.8} speed={0.6} >
-          <img src={Clouds5} style={{marginTop:'10%', opacity: 0.5}}></img>
+          <img src={Clouds5} style={{marginTop:'10%', opacity: 0.5}}alt="cloud"></img>
         </ParallaxLayer>
 
         <ParallaxLayer offset={4.9} speed={0.8} >
-          <img src={Clouds6} style={{marginTop:'40%', opacity: 0.4}}></img>
+          <img src={Clouds6} style={{marginTop:'40%', opacity: 0.4}}alt="cloud"></img>
         </ParallaxLayer>
 
 
         <ParallaxLayer offset={4.7} speed={0.75} >
-          <img src={Clouds7} style={{marginTop:'40%', opacity: 0.2}}></img>
+          <img src={Clouds7} style={{marginTop:'40%', opacity: 0.2}}alt="cloud"></img>
         </ParallaxLayer>
 
 
         <ParallaxLayer offset={4.1} speed={1.6} >
-          <img src={Clouds8} style={{marginTop:'42%', opacity: 0.5}}></img>
+          <img src={Clouds8} style={{marginTop:'42%', opacity: 0.5}}alt="cloud"></img>
         </ParallaxLayer>
 
 
         <ParallaxLayer offset={4.5} speed={1.3} >
-          <img src={Clouds9} style={{marginTop:'5%', opacity: 0.3}}></img>
+          <img src={Clouds9} style={{marginTop:'5%', opacity: 0.3}}alt="cloud"></img>
         </ParallaxLayer>
 
         <ParallaxLayer offset={5} style={{backgroundColor: `#188FA7`, display :'flex', alignItems: 'center', justifyContent:'center', fontFamily: 'DotGothic16'}}>
-          <h1>After much thought, he decides to learn to code 👨‍💻 🖥</h1>
+          <h1>After much thought, he decides to learn to code <span>👨‍💻 🖥 </span></h1>
         </ParallaxLayer>
 {/* 
         <ParallaxLayer offset={5}>
@@ -215,7 +215,7 @@ class Story extends React.Component{
         </ParallaxLayer>
 
         <ParallaxLayer offset={10} style={{backgroundColor: ``}}>
-        <img src={Imposter} style= {{marginLeft: '10%', alignContent:'center', width: '100%', height: 'auto', opacity: 0.03 }}/>
+        <img src={Imposter} style= {{marginLeft: '10%', alignContent:'center', width: '100%', height: 'auto', opacity: 0.03 }} alt="masks"/>
         </ParallaxLayer>
 
         <ParallaxLayer offset={10.1} speed={1.1}>
