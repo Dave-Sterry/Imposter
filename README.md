@@ -91,7 +91,7 @@ Photo by <a href="https://unsplash.com/@markusspiske?utm_source=unsplash&utm_med
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## 🐛 Known Bugs
-There are no known bugs at this time. 
+Doesn't scale properly when screen size gets smaller
 
 
 ## 🛠️ Technologies Used

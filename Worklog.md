@@ -60,6 +60,8 @@
 
 3:50pm - image hunt continues 
 
+4:40pm - research how to add breakpoints in react
+
 
 
 

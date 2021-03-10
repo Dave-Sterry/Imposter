@@ -46,7 +46,7 @@ Goals for Tuesday 3/9/21
 
 Goals for Wednesday 3/10/21
 
-- Don't forget to add updated planning doc! 
 - Polish styling 
 - Finish Readme
 - Styling touchup 
+- figure out emoji aria labels
