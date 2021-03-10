@@ -63,6 +63,14 @@
 4:40pm - research how to add breakpoints in react
 
 
+3/10/21
+
+9:10am - Research hosting on GH pages when there's two project folders
+
+9:47am - Got site launched on GH Pages. 
+
+
+
 
 
 
