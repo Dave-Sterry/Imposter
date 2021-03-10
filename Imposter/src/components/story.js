@@ -139,7 +139,7 @@ class Story extends React.Component{
         </ParallaxLayer>
 
         <ParallaxLayer offset={5} style={{backgroundColor: `#188FA7`, display :'flex', alignItems: 'center', justifyContent:'center', fontFamily: 'DotGothic16'}}>
-          <h1>After much thought, he decides to learn to code <span>👨‍💻 🖥 </span></h1>
+          <h1>After much thought, he decides to learn to code <span role ="img" aria-label="person on laptop">👨‍💻</span> <span role ="img" aria-label="computer">🖥 </span></h1>
         </ParallaxLayer>
 {/* 
         <ParallaxLayer offset={5}>
@@ -173,11 +173,11 @@ class Story extends React.Component{
         </ParallaxLayer>
 
         <ParallaxLayer offset={7.1} speed={1.2} style={{fontFamily:'DotGothic16'}} >
-          <h1 style={{marginTop: '10%'}}>His 🧠 was...not kind to him 👎</h1>
+          <h1 style={{marginTop: '10%'}}>His <span role="image" aria-label="brain">🧠</span> was...not kind to him <span role="image" aria-label="thumbs down">👎</span></h1>
         </ParallaxLayer>
 
         <ParallaxLayer offset={7.2} speed={1.2} style={{fontFamily:'DotGothic16'}} >
-          <h1 style={{marginTop: '15%'}}>But he knew the thoughts weren't really true 🤬</h1>
+          <h1 style={{marginTop: '15%'}}>But he knew the thoughts weren't really true <span role="image" aria-label="swearing face">🤬 </span></h1>
         </ParallaxLayer>
 
         <ParallaxLayer offset={7.3} speed={1.2} style={{fontFamily:'DotGothic16'}} >
