@@ -74,6 +74,8 @@ Scroll to the left and read the story.
 
 ### Project Planning Documentation 
 
+<img src='./Imposter/readmeassets/Imposter-Planning.png'>
+
 ### Photo Credits
 Photo by <a href="https://unsplash.com/@markusspiske?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Markus Spiske</a> on <a href="/collections/4651415/coding?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a> Code Image
 
