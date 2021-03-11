@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.js": "/Imposter/static/js/main.0d624366.chunk.js",
-    "main.js.map": "/Imposter/static/js/main.0d624366.chunk.js.map",
+    "main.js": "/Imposter/static/js/main.f5d4b03b.chunk.js",
+    "main.js.map": "/Imposter/static/js/main.f5d4b03b.chunk.js.map",
     "runtime-main.js": "/Imposter/static/js/runtime-main.ccc48542.js",
     "runtime-main.js.map": "/Imposter/static/js/runtime-main.ccc48542.js.map",
     "static/js/2.1674d2af.chunk.js": "/Imposter/static/js/2.1674d2af.chunk.js",
     "static/js/2.1674d2af.chunk.js.map": "/Imposter/static/js/2.1674d2af.chunk.js.map",
     "index.html": "/Imposter/index.html",
-    "precache-manifest.e0837b4883f4604191cb3eb9535e37e6.js": "/Imposter/precache-manifest.e0837b4883f4604191cb3eb9535e37e6.js",
+    "precache-manifest.fbc83cf2324bdff1b0e5c1ab354f8ca5.js": "/Imposter/precache-manifest.fbc83cf2324bdff1b0e5c1ab354f8ca5.js",
     "service-worker.js": "/Imposter/service-worker.js",
     "static/media/Clouds2.png": "/Imposter/static/media/Clouds2.b6a62c29.png",
     "static/media/Clouds3.png": "/Imposter/static/media/Clouds3.9ca424e2.png",
@@ -27,6 +27,6 @@
   "entrypoints": [
     "static/js/runtime-main.ccc48542.js",
     "static/js/2.1674d2af.chunk.js",
-    "static/js/main.0d624366.chunk.js"
+    "static/js/main.f5d4b03b.chunk.js"
   ]
 }
