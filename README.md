@@ -40,7 +40,7 @@ This story will appeal to anyone who has struggled with Imposter syndrome.
 
 ## EVEN MORE STRETCHING!
 * V.2 - turn it into more of a game with longer story
-* V.3 - Take the story I wrote "Imagine a Man" and make it into an only comic book
+* V.3 - Take the story I wrote "Imagine a Man" and make it into an online comic book
 
 ## 🔧 Setup & Requirements
 ### 📋 Necessary Specifications
