@@ -18,6 +18,8 @@ import Clouds7 from './img/Clouds7.png';
 import Clouds8 from './img/Clouds8.png';
 import Clouds9 from './img/Clouds9.png';
 import Trees from './img/Trees.jpg';
+import Code from './img/Code.jpg';
+
 
 class Story extends React.Component{
   render() {
@@ -138,17 +140,49 @@ class Story extends React.Component{
           <img src={Clouds9} style={{marginTop:'5%', opacity: 0.3}}alt="cloud"></img>
         </ParallaxLayer>
 
-        <ParallaxLayer offset={5} style={{backgroundColor: `#188FA7`, display :'flex', alignItems: 'center', justifyContent:'center', fontFamily: 'DotGothic16'}}>
-          <h1>After much thought, he decides to learn to code <span role ="img" aria-label="person on laptop">👨‍💻</span> <span role ="img" aria-label="computer">🖥 </span></h1>
+        <ParallaxLayer offset={5} style={{backgroundColor: `#188FA7`}}>
+          <img src={Code} style={{width:'100%', height:'100%', opacity: 0.7}} alt="code on screen"></img>
         </ParallaxLayer>
-{/* 
-        <ParallaxLayer offset={5}>
-          <img src={}></img>
-        </ParallaxLayer> */}
+
+        <ParallaxLayer offset={5} style={{ display :'flex', alignItems: 'center', justifyContent:'center', fontFamily: 'DotGothic16'}}>
+          <h1 style={{color:'#ffffff'}}>After much thought, he decides to learn to code <span role ="img" aria-label="person on laptop">👨‍💻</span> <span role ="img" aria-label="computer">🖥 </span></h1>
+        </ParallaxLayer>
 
         <ParallaxLayer offset={6} style={{backgroundColor: `#5D3A00`, display :'flex', alignItems: 'center', justifyContent:'center', fontFamily: 'DotGothic16'}}>
         </ParallaxLayer>
-      
+
+        <ParallaxLayer offset={6.1} speed ={1}style={{fontFamily: 'DotGothic16'}}>
+            <h1 style={{marginTop:'5%'}}><span role ="img" aria-label="thumbsdown">👎</span></h1>
+        </ParallaxLayer>
+
+        <ParallaxLayer offset={6.2} speed ={1.3}style={{fontFamily: 'DotGothic16'}}>
+            <h1 style={{marginTop:'15%'}}><span role ="img" aria-label="thumbsdown">👎</span></h1>
+        </ParallaxLayer>
+
+        <ParallaxLayer offset={6.3} speed ={0.5}style={{fontFamily: 'DotGothic16'}}>
+            <h1 style={{marginTop:'30%'}}><span role ="img" aria-label="thumbsdown">👎</span></h1>
+        </ParallaxLayer>
+
+        <ParallaxLayer offset={6.3} speed ={-0.2}style={{fontFamily: 'DotGothic16'}}>
+            <h1 style={{marginTop:'40%'}}><span role ="img" aria-label="thumbsdown">👎</span></h1>
+        </ParallaxLayer>
+
+        <ParallaxLayer offset={6.4} speed ={1.7}style={{fontFamily: 'DotGothic16'}}>
+            <h1 style={{marginTop:'45%'}}><span role ="img" aria-label="thumbsdown">👎</span></h1>
+        </ParallaxLayer>
+
+        <ParallaxLayer offset={6.5} speed ={0.9}style={{fontFamily: 'DotGothic16'}}>
+            <h1 style={{marginTop:'10%'}}><span role ="img" aria-label="thumbsdown">👎</span></h1>
+        </ParallaxLayer>
+
+        <ParallaxLayer offset={6.6} speed ={0.5}style={{fontFamily: 'DotGothic16'}}>
+            <h1 style={{marginTop:'55%'}}><span role ="img" aria-label="thumbsdown">👎</span></h1>
+        </ParallaxLayer>
+
+        <ParallaxLayer offset={6.9} speed ={1.5}style={{fontFamily: 'DotGothic16'}}>
+            <h1 style={{marginTop:'50%'}}><span role ="img" aria-label="thumbsdown">👎</span></h1>
+        </ParallaxLayer>
+
         <ParallaxLayer offset={6.1} speed ={1}style={{fontFamily: 'DotGothic16'}}>
           <h1 style={{marginTop: '25%'}}>Yeah good luck with that </h1>
         </ParallaxLayer>
