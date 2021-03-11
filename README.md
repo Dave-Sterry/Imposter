@@ -16,7 +16,7 @@
 <h2 align = 'center'>A React website by David Sterry </h2>
 <p align = 'center'>
 Initialized on 02/26/21
-Last updated on 03/10/21
+Last updated on 03/11/21
 </p>
 
 ## 🌐 Description
@@ -38,6 +38,9 @@ This story will appeal to anyone who has struggled with Imposter syndrome.
 * Animations triggered by clicks
 * More fleshed out story
 
+## EVEN MORE STRETCHING!
+* V.2 - turn it into more of a game with longer story
+* V.3 - Take the story I wrote "Imagine a Man" and make it into an only comic book
 
 ## 🔧 Setup & Requirements
 ### 📋 Necessary Specifications
@@ -60,7 +63,7 @@ This story will appeal to anyone who has struggled with Imposter syndrome.
 ### 🧰  Setup Options
 
 1. Open the project in your code editor of choice 
-2. In the Terminal navigate to the project folder in this case Imposter
+2. In the Terminal navigate to the project folder in this case Imposter (make sure you get in the right folder there are 2 imposters! /Imposter/imposter is the right one)
 3. Run ```npm install``` to install required dependencies 
 4. Run ```npm start``` This will run the app in the development mode.
 5. Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
