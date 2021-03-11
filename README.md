@@ -1,4 +1,8 @@
-# Imposter A Story
+
+<h3 align="center">
+█ █▀▄▀█ █▀█ █▀█ █▀ ▀█▀ █▀▀ █▀█
+█ █░▀░█ █▀▀ █▄█ ▄█ ░█░ ██▄ █▀▄
+</h3>
 <div align="center">
 <img src="https://github.com/Dave-Sterry.png" width="200px" height="auto">
 </div>

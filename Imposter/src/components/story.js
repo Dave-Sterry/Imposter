@@ -310,21 +310,38 @@ class Story extends React.Component{
 
         <ParallaxLayer offset={11} style={{backgroundColor: `#A9CEF4`, display :'flex', alignItems: 'center', justifyContent:'center', fontFamily: 'DotGothic16'}}></ParallaxLayer>
 
-        <ParallaxLayer offset={11.3} speed={1}>
+        <ParallaxLayer offset={11.1} speed={1}>
           <h1 style={{fontFamily:'DotGothic16', marginTop:'5%'}}>There were times it felt like nothing he did worked</h1>
+        </ParallaxLayer>
+
+        <ParallaxLayer offset={11.3} speed={1}>
+          <h1 style={{marginTop:'10%'}}><span role='img' aria-label='red angry face'>😡</span></h1>
         </ParallaxLayer>
 
         <ParallaxLayer offset={11.3} speed={1}>
           <h1 style={{fontFamily:'DotGothic16', marginTop:'15%'}}>or no project was really good enough</h1>
         </ParallaxLayer>
+        
+        <ParallaxLayer offset={11.5} speed={1}>
+          <h1 style={{marginTop:'20%'}}><span role='img' aria-label='louldy crying face'>😭</span></h1>
+        </ParallaxLayer>
 
-        <ParallaxLayer offset={11.3} speed={1}>
+        <ParallaxLayer offset={11.5} speed={1}>
           <h1 style={{fontFamily:'DotGothic16', marginTop:'25%'}}>or who would want to hire him anyway?</h1>
         </ParallaxLayer>
 
-        <ParallaxLayer offset={11.3} speed={1}>
+        <ParallaxLayer offset={11.7} speed={1}>
+          <h1 style={{marginTop:'30%'}}><span role='img' aria-label='Man gesturing no'>🙅‍♂️</span></h1>
+        </ParallaxLayer>
+
+        <ParallaxLayer offset={11.7} speed={1}>
           <h1 style={{fontFamily: 'DotGothic16', marginTop:'35%'}}>Then he would take a breath and remember</h1>
         </ParallaxLayer>
+
+        <ParallaxLayer offset={11.9} speed={1}>
+          <h1 style={{marginTop:'40%'}}><span role='img' aria-label='lungs'>🫁</span></h1>
+        </ParallaxLayer>
+
 
         <ParallaxLayer offset={12} style={{backgroundColor: `#54DEFD`,display :'flex', alignItems: 'center', justifyContent:'center', fontFamily: 'DotGothic16'}}></ParallaxLayer>
 

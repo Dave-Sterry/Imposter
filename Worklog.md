@@ -69,11 +69,13 @@
 
 9:47am - Got site launched on GH Pages. 
 
-10:14am - Research break points with parallax
+10:14am - Research screen break points with parallax
 
-1:20pm - Give up on break points for now. 
+1:20pm - Give up on screen break points for now. 
 
 2-2:40pm - went for walk, emotional recovery. 
+
+4:30pm - Got super lost in documentation trying to figure out how to make screen break points work with this project again. 
 
 
 
