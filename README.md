@@ -1,8 +1,13 @@
 
-<h3 align="center">
+<h4 align="center"  margin-bottom="0">
+
 █ █▀▄▀█ █▀█ █▀█ █▀ ▀█▀ █▀▀ █▀█
-█ █░▀░█ █▀▀ █▄█ ▄█ ░█░ ██▄ █▀▄
-</h3>
+</h4>
+<h4 align="center" style ="margin-top:0">
+ █ █░▀░█ █▀▀ █▄█ ▄█ ░█░ ██▄ █▀▄
+  </h4>
+
+<br>
 <div align="center">
 <img src="https://github.com/Dave-Sterry.png" width="200px" height="auto">
 </div>
@@ -15,7 +20,7 @@ Last updated on 03/10/21
 </p>
 
 ## 🌐 Description
-A scrollable linear story that follows a character as they learn to deal with imposter syndrome. Built in React and utilizing the react-spring parallax scrolling effect each section has it's own images and background that emphasize the emotional content of that section. The story culminates with the character learning to accept and move past their imposter syndrome
+Welcome to Imposter- A scrollable linear story that follows a character as they learn to deal with imposter syndrome. Built in React and utilizing the react-spring parallax scrolling effect each section has it's own images and background that emphasize the emotional content of that section. The story culminates with the character learning to accept and move past their imposter syndrome
 
 ## 📖 **User Stories**
 This story will appeal to anyone who has struggled with Imposter syndrome. 
