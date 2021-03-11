@@ -28,6 +28,10 @@ class Story extends React.Component{
         <ParallaxLayer offset ={0} speed={1} style={{backgroundColor: ``, display: 'flex', alignItems: 'center', justifyContent: 'center' , fontFamily: 'DotGothic16',  color: '#ffffff'}} > 
           <h1>Imposter</h1> 
         </ParallaxLayer>
+
+        <ParallaxLayer offset ={0} speed={1} >
+          <h3 style={{display: 'flex', alignItems: 'center', justifyContent: 'center' , fontFamily: 'DotGothic16',  color: '#ffffff', marginTop:'45%'}}>Scroll<span role='img' aria-label='arrow'>➡</span></h3>
+        </ParallaxLayer>
           
         <ParallaxLayer offset ={0.99} speed ={1} style ={{opacity: 1}}>
           <img src={Imposter} style= {{display: 'block', alignItems: 'center', justifyContent: 'center', width: '75%'}} alt="masks"/>
