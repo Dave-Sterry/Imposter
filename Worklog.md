@@ -77,7 +77,7 @@
 
 4:30pm - Got super lost in documentation trying to figure out how to make screen break points work with this project again. 
 
-7:45pm -8:30pm - Build out capstone discord channel
+7:45 -8:30pm - Build out capstone discord channel
 
 
 
