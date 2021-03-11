@@ -79,6 +79,10 @@
 
 7:45 -8:30pm - Build out capstone discord channel
 
+3/11/21
+
+10:32am - finish work on capstone presentation and channel. 
+
 
 
 
